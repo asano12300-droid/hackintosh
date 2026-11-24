@@ -71,33 +71,56 @@ Mac-BE088AF8C5EB4FA2
 ```
 </details>
 
-    8.Mojave (10.14)<br>
-    ```
-    Mac-7BA5B2DFE22D
-    ```
-    9.Catalina (10.15)<br>
-    ```
-    Mac-CFF7D910A743CAA
-    ```
-    ```
-    Mac-00BE6ED71E35EB
-    ```
-    10.Big Sur (11)<br>
-    ```
-    Mac-2BD1B31983FE166
-    ```
-    11.Monteray (12)<br>
-    ```
-    Mac-E43C1C25D4880AD6
-    ```
-    12.Ventura (13)<br>
-    ```
-    Mac-B4831CEBD52A0C4C
-    ```
-    13.Sonoma (14)<br>
-    ```
-    Mac-827FAC58A8FDFA22
-    ```
+<details>
+<summary>8.Mojave (10.14)</summary>
+    
+```
+Mac-7BA5B2DFE22D
+```
+</details>
+
+<details>
+<summary>9.Catalina (10.15)</summary>
+
+```
+Mac-CFF7D910A743CAA
+```
+```
+Mac-00BE6ED71E35EB
+```
+</details>
+
+<details>
+<summary>10.Big Sur (11)</summary>
+
+```
+Mac-2BD1B31983FE166
+```
+</details>
+
+<details>
+<summary>11.Monteray (12)</summary>
+
+```
+Mac-E43C1C25D4880AD6
+```
+</details>
+
+<details>
+<summary>12.Ventura (13)</summary>
+
+```
+Mac-B4831CEBD52A0C4C
+```
+</details>
+
+<details>
+<summary>13.Sonoma (14)</summary>
+```
+Mac-827FAC58A8FDFA22
+```
+</details>
+
 <details>
 <summary>14.Sequoia (15)</summary>
 
