@@ -11,5 +11,5 @@ macOSの非公式版
 ## 使い方
 
 ## リンク
-[1](https://github.com/lzhoang2801/OpCore-Simplify)
-[2](https://github.com/acidanthera/opencorepkg)
+[1.OpCore-Simplify-main](https://github.com/lzhoang2801/OpCore-Simplify)<br>
+[2.OpenCore](https://github.com/acidanthera/opencorepkg)
