@@ -9,6 +9,17 @@ macOSの非公式版
 2.のOpenCoreのUtilitiesはmacrecoveryのみになっております
 
 ## 使い方
+1.**OpenCore-Simplify-main**の**OpCore-Simplify**を起動させる<br>
+2.**OpenCore**の**utilities/macrecovary/macrecovary**を以下のコマンドで起動させる<br>
+windowsの場合
+```
+py ./macrecovery.py -b (対応するMacOS) -m 00000000000000000 download
+```
+linuxの場合
+```
+python3 ./macrecovery.py -b (対応するMacOS) -m 00000000000000000 download
+```
+
 <details>
 <summary>macrecoveryの値一覧</summary>
 
