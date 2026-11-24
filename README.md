@@ -17,18 +17,22 @@ macOSの非公式版
     ```
     Mac-2E6FAB96566FE58C
     ```
+
     ### Mountain Lion (10.8)
     ```
     Mac-7DF2A3B5E5D671ED
     ```
+
     ### Mavericks (10.9)
     ```
     Mac-F60DEB81FF30ACF6
     ```
+
     ### Yosemite (10.10)
     ```
     Mac-E43C1C25D4880AD
     ```
+    
     5.El Capitan (10.1)<br>
     ```
     Mac-FFE5EF870D7BA81A
