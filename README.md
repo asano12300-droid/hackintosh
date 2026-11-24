@@ -20,36 +20,57 @@ Mac-2E6FAB96566FE58C
 ```
 </details>
 
-    ### Mountain Lion (10.8)
-    ```
-    Mac-7DF2A3B5E5D671ED
-    ```
+<details>
+<summary>2.Mountain Lion (10.8)</summary>
 
-    ### Mavericks (10.9)
-    ```
-    Mac-F60DEB81FF30ACF6
-    ```
+```
+Mac-7DF2A3B5E5D671ED
+```
+</details>
 
-    ### Yosemite (10.10)
-    ```
-    Mac-E43C1C25D4880AD
-    ```
+<details>
+<summary>3.Mavericks (10.9)</summary>
+    
+```
+Mac-F60DEB81FF30ACF6
+```
+</details>
 
-    5.El Capitan (10.1)<br>
-    ```
-    Mac-FFE5EF870D7BA81A
-    ```
-    6.Sierra (10.12)<br>
-    ```
-    Mac-77F17D7DA9285301
-    ```
-    7.High Sierra (10.13)<br>
-    ```
-    Mac-7BA5B2D9E42DDD94
-    ```
-    ```
-    Mac-BE088AF8C5EB4FA2
-    ```
+<details>
+<summary>4.Yosemite (10.10)</summary>
+    
+```
+Mac-E43C1C25D4880AD
+```
+</details>
+
+<details>
+<summary>5.El Capitan (10.1)</summary>
+
+```
+Mac-FFE5EF870D7BA81A
+```
+</details>
+
+<details>
+<summary>6.Sierra (10.12)</summary>
+
+```
+Mac-77F17D7DA9285301
+```
+</details>
+
+<details>
+<summary>7.High Sierra (10.13)</summary>
+
+```
+Mac-7BA5B2D9E42DDD94
+```
+```
+Mac-BE088AF8C5EB4FA2
+```
+</details>
+
     8.Mojave (10.14)<br>
     ```
     Mac-7BA5B2DFE22D
@@ -77,14 +98,20 @@ Mac-2E6FAB96566FE58C
     ```
     Mac-827FAC58A8FDFA22
     ```
-    14.Sequoia (15)<br>
-    ```
-    Mac-7BA5B2D9E42DDD94
-    ```
-    15.Latest (Tahoe, 26)<br>
-    ```
-    Mac-CFF7D910A743CAAF
-    ```
+<details>
+<summary>14.Sequoia (15)</summary>
+
+```
+Mac-7BA5B2D9E42DDD94
+```
+</details>
+
+<details>
+<summary>15.Latest (Tahoe, 26)</summary>
+
+```
+Mac-CFF7D910A743CAAF
+```
 </details>
 
 ## リンク
