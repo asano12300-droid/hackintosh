@@ -11,7 +11,7 @@ macOSの非公式版
 ## 使い方
 
 <details>
-    <summary>macrecoveryの値一覧<summary>
+    <summary>macrecoveryの値一覧</summary>
 
     ### Lion (10.7)
     ```
