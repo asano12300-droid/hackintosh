@@ -9,14 +9,16 @@ macOSの非公式版
 2.のOpenCoreのUtilitiesはmacrecoveryのみになっております
 
 ## 使い方
+<details>
+<summary>macrecoveryの値一覧</summary>
 
 <details>
-    <summary>macrecoveryの値一覧</summary>
+<summary>1.Lion (10.7)</summary>
 
-    ### Lion (10.7)
-    ```
-    Mac-2E6FAB96566FE58C
-    ```
+```
+Mac-2E6FAB96566FE58C
+```
+</details>
 
     ### Mountain Lion (10.8)
     ```
