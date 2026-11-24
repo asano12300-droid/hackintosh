@@ -81,6 +81,7 @@ macOSの非公式版
     ```
     Mac-CFF7D910A743CAAF
     ```
+    
 <details>
 ## リンク
 [1.OpCore-Simplify-main](https://github.com/lzhoang2801/OpCore-Simplify)<br>
