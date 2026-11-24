@@ -12,23 +12,20 @@ macOSの非公式版
 
 <details>
     <summary>macrecoveryの値一覧<summary>
-    
-    1.Lion (10.7)<br>
+
+    ### Lion (10.7)
     ```
     Mac-2E6FAB96566FE58C
     ```
-    ```
-    Mac-C3EC7CD22292981F
-    ```
-    2.Mountain Lion (10.8)<br>
+    ### Mountain Lion (10.8)
     ```
     Mac-7DF2A3B5E5D671ED
     ```
-    3.Mavericks (10.9)<br>
+    ### Mavericks (10.9)
     ```
     Mac-F60DEB81FF30ACF6
     ```
-    4.Yosemite (10.10)<br>
+    ### Yosemite (10.10)
     ```
     Mac-E43C1C25D4880AD
     ```
