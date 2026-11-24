@@ -12,6 +12,7 @@ macOSの非公式版
 
 <details>
     <summary>macrecoveryの値一覧<summary>
+    
     1.Lion (10.7)<br>
     ```
     Mac-2E6FAB96566FE58C
@@ -81,7 +82,6 @@ macOSの非公式版
     ```
     Mac-CFF7D910A743CAAF
     ```
-    
 <details>
 ## リンク
 [1.OpCore-Simplify-main](https://github.com/lzhoang2801/OpCore-Simplify)<br>
