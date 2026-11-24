@@ -4,6 +4,7 @@ macOSの非公式版
 ## 内容物
 1.OpCore-Simplify-main<br>
 2.OpenCore<br>
+3.USBToolBox<br>
 
 ### 説明
 2.のOpenCoreのUtilitiesはmacrecoveryのみになっております
@@ -151,3 +152,4 @@ Mac-CFF7D910A743CAAF
 ## リンク
 [1.OpCore-Simplify-main](https://github.com/lzhoang2801/OpCore-Simplify)<br>
 [2.OpenCore](https://github.com/acidanthera/opencorepkg)
+[3.USBToolBox/tool](https://github.com/USBToolBox/tool)
